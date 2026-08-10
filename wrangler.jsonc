@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "account_id": "07c56e0dc4b3b1597495aa78fe7ebbf8",
+  "account_id": "9ae50791e810b4aca853d473df79869e",
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS"
